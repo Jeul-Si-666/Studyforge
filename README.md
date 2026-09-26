@@ -88,35 +88,35 @@ StudyForge analyzes learning materials, identifies important concepts, generates
 
 PDF
 
-&#x20;↓
+↓
 
 Text Extraction
 
-&#x20;↓
+↓
 
 Chunking
 
-&#x20;↓
+↓
 
 Embedding
 
-&#x20;↓
+↓
 
 Vector Search
 
-&#x20;↓
+↓
 
 Concept Extraction
 
-&#x20;↓
+↓
 
 Question Generation
 
-&#x20;↓
+↓
 
 Assessment
 
-&#x20;↓
+↓
 
 Adaptive Learning
 
